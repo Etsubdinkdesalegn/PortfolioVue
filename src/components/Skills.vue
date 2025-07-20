@@ -45,7 +45,7 @@ const skills = [
   },
   {
     category: 'Testing',
-    items: ['Jest', 'unit testing','Integration Testing']
+    items: ['unit testing','Integration Testing']
   },
   {
     category: 'Design & Styling',
